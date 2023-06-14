@@ -1,4 +1,4 @@
-# Non-Uniform Sampling Super Temporal Reslotion (NUSTSR)
+# Non-Uniform Sampling Super Temporal Resolution (NUSTSR)
 
 ## Abstract
 In this project, we explore the use of non-uniform sampling methods for improving signal
@@ -43,6 +43,7 @@ Examples:
 
 ## How To Run
 For our project, we developed and evaluated the code on a Ubuntu 18.04.5 LTS Linux server, utilizing a CUDA GPU.
+
 To run our project, like the block diagram explain,
 first you need to open: Data_Base/Data Saver.py   and set these variables with the parameters of the database we want to create:
 ```python
