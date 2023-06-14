@@ -24,22 +24,22 @@ From this repo we can produce three types of results that will show the performa
 We can get a plot of the interpolated signal based on the variety of the sampling methods.
 
 Examples:
-![Linear interpolation of uniform samples of sine wave](Images\Sin_uniform_sampling_reconstract.png)
-![Linear interpolation of our ML model samples of sine wave](Images\Sin_model_sampling_reconstract.png)
+![Linear interpolation of uniform samples of sine wave](Images/Sin_uniform_sampling_reconstract.png)
+![Linear interpolation of our ML model samples of sine wave](Images/Sin_model_sampling_reconstract.png)
 
 ### Sweep  
 We can get a sweep plot of the performance of different sampling methods on frequencies of created signals.
 
 Examples:  
-![Sweep plot from 1 to 10 of sawtooth signal with diffrenet sampling method under linear interpolation](Images\Sweep_sawtooth_MSE_1_10.png)
-![Sweep plot from 10 to 20 of sine signal with diffrenet sampling method under linear interpolation](Images\Sweep_sin_MSE_10_20.png)
+![Sweep plot from 1 to 10 of sawtooth signal with diffrenet sampling method under linear interpolation](Images/Sweep_sawtooth_MSE_1_10.png)
+![Sweep plot from 10 to 20 of sine signal with diffrenet sampling method under linear interpolation](Images/Sweep_sin_MSE_10_20.png)
 
 ### Feature Based  
 We can also plot bar chart where we compere different sampling methods based on some features of the signal, For example: the number of sine waves in a signal that's the sum of them.
 
 Examples:
-![Feature bar chart of different number of added sine waves under linear interpolation](Images\signals_features_sin_sum_plot.png)
-![Feature bar chart of random signal smoothed with gaussian filter with different sigma values under linear interpolation](Images\signals_features_random_with_gaussian_plot.png)
+![Feature bar chart of different number of added sine waves under linear interpolation](Images/signals_features_sin_sum_plot.png)
+![Feature bar chart of random signal smoothed with gaussian filter with different sigma values under linear interpolation](Images/signals_features_random_with_gaussian_plot.png)
 
 ## How To Run
 For our project, we developed and evaluated the code on a Ubuntu 18.04.5 LTS Linux server, utilizing a CUDA GPU.
