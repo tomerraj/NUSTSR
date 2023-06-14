@@ -1,0 +1,3 @@
+,train_mat avg_loss,train_mat correct prob,test_mat avg_loss,test_mat correct prob,mse_avg from sample,mse_avg from unif,ratio_improve_avg,mse_avg from sample on train,mse_avg from unif on train,ratio_improve_avg on train
+armProjects/NUSTSR/Data_Base/Data_Base_interp_both_freq_sin_with_phase_10-20,0.8972510604542635,0.6377192735671997,1.1377103722521236,0.575563907623291,0.6338357794637782,0.5563018893057207,0.8646930015387747,0.5569782193961108,0.4982929700915776,0.9313467644535666
+armProjects/NUSTSR/Data_Base/Data_Base_interp_both_freq_sin_with_phase_1-10,2.206757945537567,0.21896842122077942,2.207279428603157,0.22080200910568237,0.026096594659660785,0.026096594659660785,1.0,0.02577856943490919,0.02577856943490919,1.0
