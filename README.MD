@@ -15,7 +15,7 @@ sequential modelling, and have been applied in many application fields, includin
 processing. These models have become an obvious choice for time series modelling and a
 promising tool for handling irregular time series data.
 
-![Block Diagram](Images\NUSTSR_block_diagram.png)
+![Block Diagram](Images/NUSTSR_block_diagram.png)
 
 ## Outputs
 From this repo we can produce three types of results that will show the performance of the created model.
