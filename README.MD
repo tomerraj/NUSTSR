@@ -37,7 +37,7 @@ Examples:
 ### Feature Based  
 We can also plot bar chart where we compere different sampling methods based on some features of the signal, For example: the number of sine waves in a signal that's the sum of them.
 
-Examples:
+Examples:   
 ![Feature bar chart of different number of added sine waves under linear interpolation](Images/signals_features_sin_sum_plot.png)
 ![Feature bar chart of random signal smoothed with gaussian filter with different sigma values under linear interpolation](Images/signals_features_random_with_gaussian_plot.png)
 
