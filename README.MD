@@ -121,3 +121,8 @@ signals_count = 12
 error_type = "Max_error"  # Max_error ,  MSE ,  L1_error
 ```
 and run.
+
+
+## Project Poster
+
+![NUSTSR Poster](Images/Poster_NUSTSR.png)
