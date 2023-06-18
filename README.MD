@@ -130,3 +130,5 @@ and run.
 ![NUSTSR Poster](Images/Poster_NUSTSR.png)
 ### Report
 [NUSTSR Project Report](project_submission/Project%20Report%20NUSTSR.pdf)
+### Final Presention
+[NUSTSR final presention](project_submission/NUSTSR%20final%20presention.pdf)
