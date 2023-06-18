@@ -123,6 +123,8 @@ error_type = "Max_error"  # Max_error ,  MSE ,  L1_error
 and run.
 
 
-## Project Poster
-
+## Project Submissions
+### Poster
 ![NUSTSR Poster](Images/Poster_NUSTSR.png)
+### Report
+[NUSTSR Project Report](project_submission/Project%20Report%20NUSTSR.pdf)
